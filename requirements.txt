@@ -1,0 +1,6 @@
+opencv-python
+numpy
+ultralytics
+cvzone
+pygame
+scipy
